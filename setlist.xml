@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet type="text/css" href="styles.css"?>
+<setlist>
+    <song class="first">
+        <title>Act Naturally</title>
+        <artist>The Beatles</artist>
+        <genre>Rock</genre>
+        <year>1965</year>
+    </song>
+    <song>
+        <title>A Day in the Life</title>
+        <artist>The Beatles</artist>
+        <genre>Rock</genre>
+        <year>1967</year>
+    </song>
+    <song>
+        <title>The Long and Winding Road</title>
+        <artist>The Beatles</artist>
+        <genre>Rock</genre>
+        <year>1970</year>
+    </song>
+    <song>
+        <title>Penny Lane</title>
+        <artist>The Beatles</artist>
+        <genre>Rock</genre>
+        <year>1967</year>
+    </song>
+    <song>
+        <title>She Loves You</title>
+        <artist>The Beatles</artist>
+        <genre>Rock</genre>
+        <year>1963</year>
+    </song>
+    <song>
+        <title>Something</title>
+        <artist>The Beatles</artist>
+        <genre>Rock</genre>
+        <year>1969</year>
+    </song>
+    <song>
+        <title>Twist and Shout</title>
+        <artist>The Beatles</artist>
+        <genre>Rock</genre>
+        <year>1963</year>
+    </song>
+    <song>
+        <title>Let it Be</title>
+        <artist>The Beatles</artist>
+        <genre>Rock</genre>
+        <year>1970</year>
+    </song>
+    <song>
+        <title>When I'm Sixty-Four</title>
+        <artist>The Beatles</artist>
+        <genre>Rock</genre>
+        <year>1967</year>
+    </song>
+    <song>
+        <title>Yesterday</title>
+        <artist>The Beatles</artist>
+        <genre>Rock</genre>
+        <year>1965</year>
+    </song>
+    <song>
+        <title>Your Mother Should Know</title>
+        <artist>The Beatles</artist>
+        <genre>Rock</genre>
+        <year>1967</year>
+    </song>
+</setlist>
